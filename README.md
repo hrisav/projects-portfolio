@@ -22,7 +22,6 @@
 --
 
 * Created an app that will predict if a customer is eligible for loan or not.
-* It will help the android developers to understand the factors behind the rating of any app.
 * Data cleaning was done to fill missing values with mean/median.
 * Exploratory Analysis was performed to understand how other features are related to the target.
 * Feature engineering was done and new feature Total Income was formulated.
@@ -45,3 +44,18 @@
 * Suggesting marketing and promotional activities based on segements.
 
 <img src="images/customer.jpg" width="600">
+
+[Project 4 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+--
+
+* To predict if a customer is eligible for loan or not.
+* Understanding the problem and setting up Spark environment.
+* Data cleaning was done to fill missing values with mean/median.
+* Exploratory Analysis was performed to understand how other features are related to the target.
+* Feature engineering was done and new feature Total Income and EMI was formulated.
+* String Indexing and One Hot Encoding was performed on Categorical features.
+* Using Vector Assembler multiple columns were merged into a vector column.
+* Applied Decision Tree Classifier, Random Forest Classifier, Logistic Regression to select the final model.
+* Model with highest accuracy score was opted.
+
+<img src="images/loanspark.JPG" width="400">
