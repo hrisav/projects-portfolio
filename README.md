@@ -45,7 +45,20 @@
 
 <img src="images/customer.jpg" width="600">
 
-[Project 4 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+[Project 4 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
+--
+
+- Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
+- Perform OLS Regression using all features.
+- Check significance of features (by P-value) and drop insignifant ones and do OLS again.
+- Try feature engineering and check interaction effect between variables and make new features.
+- Check adjusted R score and mean absolute error.
+- Perform model building using DecisionTreeRegressor, RandomForestRegressor, KNeighborsRegressor.
+- Also perform hyperparameter tuning and apply crossvalidation for best result.
+
+<img src="images/mmm.jpg" width="500">
+
+[Project 5 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
 
 * To predict if a customer is eligible for loan or not.
