@@ -34,3 +34,14 @@
 * Deployment using AWS EC2.
 
 <img src="images/loan.JPG" width="700">
+
+[Project 3 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
+--
+
+* Understanding a retail store's customer purchase data having 51,243 transactions.
+* Generating Recency, Frequency, Amount features for RFM analysis.
+* Build a 4-segment solution (using K-Means).
+* Building segments from the managerial implementation angle.
+* Suggesting marketing and promotional activities based on segements.
+
+<img src="images/customer.jpg" width="600">
