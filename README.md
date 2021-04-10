@@ -72,3 +72,15 @@
 * Model with highest accuracy score was opted.
 
 <img src="images/loanspark.JPG" width="400">
+
+[Project 6 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
+--
+
+* Making a store sales dashboard using Tableau.
+* Trying to understand key performing areas and areas which hasn't performed well.
+* Understanding how Sales, Profit and Discount varied across Categories, Sub-categories, Regions.
+* Graphs used - Scatter plot, Box plot, Butterfly chart, Bump chart, Bar Charts, Maps, Bubbles, etc.
+
+<img src="images/store1.JPG" width="600">
+
+<img src="images/store2.JPG" width="600">
