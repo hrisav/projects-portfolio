@@ -34,18 +34,37 @@
 
 <img src="images/loan.JPG" width="700">
 
-[Project 3 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
+[Project 3 : Spam Classifier](https://github.com/hrisav/spam-ham)
+--
+
+* Built a binary classification model to detect whether a text message is spam or ham.
+* Used NLP techniques likes Lemmatization, Bag of Words, TFIDF as a baseline for ML model building.
+* Machine Learning models were built using Naive Bayes, KNeighborsClassifier, DecisionTreeClassifier, SVM Classifier.
+* For Deep Learning, techniques like Tokenizing, Word Indexing, Sequencing, Padding were followed.
+* It was then passed through either the Dense network or LSTM network.
+* Among ML models, SVM Classifier using TFIDF gave best result in terms of precision, accuracy and f1-score.
+* Among DL models, Dense network performed better in terms of validation loss and accuracy.
+
+ML structure:
+
+<img src="images/mlsteps.jpg" width="550">
+
+DL structure:
+
+<img src="images/dlsteps2.jpg" width="550">
+
+[Project 4 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
 --
 
 * Understanding a retail store's customer purchase data having 51,243 transactions.
 * Generating Recency, Frequency, Amount features for RFM analysis.
-* Build a 4-segment solution (using K-Means).
+* Built a 4-segment solution (using K-Means).
 * Building segments from the managerial implementation angle.
 * Suggesting marketing and promotional activities based on segements.
 
 <img src="images/customer.jpg" width="600">
 
-[Project 4 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
+[Project 5 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
 --
 
 - Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
@@ -58,7 +77,7 @@
 
 <img src="images/mmm.jpg" width="500">
 
-[Project 5 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+[Project 6 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
 
 * To predict if a customer is eligible for loan or not.
@@ -73,7 +92,7 @@
 
 <img src="images/loanspark.JPG" width="400">
 
-[Project 6 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
+[Project 7 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
 --
 
 * Making a store sales dashboard using Tableau.
