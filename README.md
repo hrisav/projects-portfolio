@@ -1,6 +1,18 @@
-# projects-portfolio
+# Hrisav's Portfolio
 
-[Project 1 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
+[Project 1 : Stock Market Price Prediction](https://github.com/hrisav/stock-price-prediction)
+--
+
+* Predicting future values of stock using Time Series, ML, DL, NLP techniques.
+* Time Series Analysis and Forecasting (Moving Avg, Exponential Smoothing, ARIMA, ARCH, GARCH, etc)
+* Machine Learning Techniques (Both Classification and Regression)
+* Deep Learning Techniques (Simple RNN, GRU, LSTM)
+* Prediction using Sentiment Analysis (used VADER's Sentiment Intensity Analyser library)
+* UI Building & Deployment using Amazon EC2.
+
+<img src="images/stockloss.JPG" width="220">
+
+[Project 2 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
 --
 
 * Created an app that will predict the ratings of new android apps.
@@ -14,11 +26,11 @@
 * Applied Random Forest Regressor, Linear Regression, Support Vector Regressor to select the final model.
 * Model with least RMSE score was opted.
 * Frontend development using HTML, CSS.
-* Deployment using AWS EC2.
+* Deployment using Amazon EC2.
 
 <img src="images/playstore.jpg" width="700">
 
-[Project 2 : Loan Approval](https://github.com/hrisav/loan-acceptance)
+[Project 3 : Loan Approval](https://github.com/hrisav/loan-acceptance)
 --
 
 * Created an app that will predict if a customer is eligible for loan or not.
@@ -30,11 +42,11 @@
 * Applied Decision Tree Classifier, Random Forest Classifier, Logistic Regression to select the final model.
 * Model with highest accuracy score was opted.
 * UI building using HTML, CSS.
-* Deployment using AWS EC2.
+* Deployment using Amazon EC2.
 
 <img src="images/loan.JPG" width="700">
 
-[Project 3 : Spam Classifier](https://github.com/hrisav/spam-ham)
+[Project 4 : Spam Classifier](https://github.com/hrisav/spam-ham)
 --
 
 * Built a binary classification model to detect whether a text message is spam or ham.
@@ -53,7 +65,7 @@ DL structure:
 
 <img src="images/dlsteps2.jpg" width="550">
 
-[Project 4 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
+[Project 5 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
 --
 
 * Understanding a retail store's customer purchase data having 51,243 transactions.
@@ -64,7 +76,7 @@ DL structure:
 
 <img src="images/customer.jpg" width="600">
 
-[Project 5 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
+[Project 6 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
 --
 
 - Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
@@ -77,7 +89,7 @@ DL structure:
 
 <img src="images/mmm.jpg" width="500">
 
-[Project 6 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+[Project 7 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
 
 * To predict if a customer is eligible for loan or not.
@@ -92,7 +104,7 @@ DL structure:
 
 <img src="images/loanspark.JPG" width="400">
 
-[Project 7 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
+[Project 8 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
 --
 
 * Making a store sales dashboard using Tableau.
