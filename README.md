@@ -12,7 +12,21 @@
 
 <img src="images/stockloss.JPG" width="220">
 
-[Project 2 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
+[Project 2 : Movie Recommendation System](https://github.com/hrisav/movie-recommendation)
+--
+
+* Genre based Movie Recommendation
+* Recommending Movies using Pearson Correlation
+* Recommending Movies using Cosine Similarity
+* Recommending Movies using KNN (with Cosine distance metric)
+* Clustering of movies (using KMeans)
+* Recommending Movies using Content & Collaborative latent matrix with TFIDF & SVD
+* Predicting unseen Movie ratings for user using Surprise Library (with SVD, KNN, NMF)
+* Recommending Movies for a user using Surprise Library (with KNN)
+
+<img src="images/recommmend.JPG" width="400">
+
+[Project 3 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
 --
 
 * Created an app that will predict the ratings of new android apps.
@@ -30,7 +44,7 @@
 
 <img src="images/playstore.jpg" width="700">
 
-[Project 3 : Loan Approval](https://github.com/hrisav/loan-acceptance)
+[Project 4 : Loan Approval](https://github.com/hrisav/loan-acceptance)
 --
 
 * Created an app that will predict if a customer is eligible for loan or not.
@@ -46,7 +60,7 @@
 
 <img src="images/loan.JPG" width="700">
 
-[Project 4 : Spam Classifier](https://github.com/hrisav/spam-ham)
+[Project 5 : Spam Classifier](https://github.com/hrisav/spam-ham)
 --
 
 * Built a binary classification model to detect whether a text message is spam or ham.
@@ -65,7 +79,7 @@ DL structure:
 
 <img src="images/dlsteps2.jpg" width="550">
 
-[Project 5 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
+[Project 6 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
 --
 
 * Understanding a retail store's customer purchase data having 51,243 transactions.
@@ -76,7 +90,7 @@ DL structure:
 
 <img src="images/customer.jpg" width="600">
 
-[Project 6 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
+[Project 7 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
 --
 
 - Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
@@ -89,7 +103,7 @@ DL structure:
 
 <img src="images/mmm.jpg" width="500">
 
-[Project 7 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+[Project 8 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
 
 * To predict if a customer is eligible for loan or not.
@@ -104,7 +118,7 @@ DL structure:
 
 <img src="images/loanspark.JPG" width="400">
 
-[Project 8 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
+[Project 9 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
 --
 
 * Making a store sales dashboard using Tableau.
