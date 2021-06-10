@@ -1,4 +1,6 @@
-# Hrisav's Portfolio
+<h1 align="center"> <b> Hrisav's Portfolio </b> <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" align='center'></h1>
+
+<p align="center"> <img src="images/hrisavbhcover.jpg" width="920"> </p>
 
 [Project 1 : Stock Market Price Prediction](https://github.com/hrisav/stock-price-prediction)
 --
