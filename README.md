@@ -1,6 +1,6 @@
-<h1 align="center"> <b> Hrisav's Portfolio </b> <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" align='center'></h1>
+<h1 align="center"> <b> Hrisav's Portfolio </b> </h1>
 
-<p align="center"> <img src="images/hrisavbhcover.jpg" width="920"> </p>
+<p align="center"> <img src="images/hrisavbhcover.jpg" width="900"> </p>
 
 [Project 1 : Stock Market Price Prediction](https://github.com/hrisav/stock-price-prediction)
 --
@@ -12,7 +12,7 @@
 * Prediction using Sentiment Analysis (used VADER's Sentiment Intensity Analyser library)
 * UI Building & Deployment using Amazon EC2.
 
-<img src="images/stockloss.JPG" width="220">
+<p align="center"> <img src="images/stockloss.JPG" width="220"> </p>
 
 [Project 2 : Movie Recommendation System](https://github.com/hrisav/movie-recommendation)
 --
@@ -26,7 +26,7 @@
 * Predicting unseen Movie ratings for user using Surprise Library (with SVD, KNN, NMF)
 * Recommending Movies for a user using Surprise Library (with KNN)
 
-<img src="images/recommmend.JPG" width="400">
+<p align="center"> <img src="images/recommmend.JPG" width="400"> </p>
 
 [Project 3 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
 --
@@ -44,7 +44,7 @@
 * Frontend development using HTML, CSS.
 * Deployment using Amazon EC2.
 
-<img src="images/playstore.jpg" width="700">
+<p align="center"> <img src="images/playstore.jpg" width="700"> </p>
 
 [Project 4 : Loan Approval](https://github.com/hrisav/loan-acceptance)
 --
@@ -60,7 +60,7 @@
 * UI building using HTML, CSS.
 * Deployment using Amazon EC2.
 
-<img src="images/loan.JPG" width="700">
+<p align="center"> <img src="images/loan.JPG" width="700"> </p>
 
 [Project 5 : Spam Classifier](https://github.com/hrisav/spam-ham)
 --
@@ -75,11 +75,11 @@
 
 ML structure:
 
-<img src="images/mlsteps.jpg" width="550">
+<p align="center"> <img src="images/mlsteps.jpg" width="550"> </p>
 
 DL structure:
 
-<img src="images/dlsteps2.jpg" width="550">
+<p align="center"> <img src="images/dlsteps2.jpg" width="550"> </p>
 
 [Project 6 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
 --
@@ -90,7 +90,7 @@ DL structure:
 * Building segments from the managerial implementation angle.
 * Suggesting marketing and promotional activities based on segements.
 
-<img src="images/customer.jpg" width="600">
+<p align="center"> <img src="images/customer.jpg" width="600"> </p>
 
 [Project 7 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
 --
@@ -103,7 +103,7 @@ DL structure:
 - Perform model building using DecisionTreeRegressor, RandomForestRegressor, KNeighborsRegressor.
 - Also perform hyperparameter tuning and apply crossvalidation for best result.
 
-<img src="images/mmm.jpg" width="500">
+<p align="center"> <img src="images/mmm.jpg" width="500"> </p>
 
 [Project 8 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
@@ -118,7 +118,7 @@ DL structure:
 * Applied Decision Tree Classifier, Random Forest Classifier, Logistic Regression to select the final model.
 * Model with highest accuracy score was opted.
 
-<img src="images/loanspark.JPG" width="400">
+<p align="center"> <img src="images/loanspark.JPG" width="400"> </p>
 
 [Project 9 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
 --
@@ -128,6 +128,6 @@ DL structure:
 * Understanding how Sales, Profit and Discount varied across Categories, Sub-categories, Regions.
 * Graphs used - Scatter plot, Box plot, Butterfly chart, Bump chart, Bar Charts, Maps, Bubbles, etc.
 
-<img src="images/store1.JPG" width="600">
+<p align="center"> <img src="images/store1.JPG" width="600"> </p>
 
-<img src="images/store2.JPG" width="600">
+<p align="center"> <img src="images/store2.JPG" width="600"> </p>
