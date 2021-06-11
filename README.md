@@ -28,7 +28,17 @@
 
 <p align="center"> <img src="images/recommmend.JPG" width="400"> </p>
 
-[Project 3 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
+[Project 3 : Traffic Sign Classification](https://github.com/hrisav/traffic-sign-classify)
+--
+
+* Created a model that will classify trafic sign images using Deep Learning and Machine Learning techniques.
+* Problem has 43 traffic signs (classes) and 50000+ images in total.
+* First a Convolutional Neural Network (Convolution >> Batch Normalization >> MaxPool >> Dropout) with Fully connected layer (having 2 dense layers) was built which gave an accuracy of 97.11% on test data.
+* The same Convolutional Neural Network's output was used to passed onto Random Forest and another model was built. It gave an accuracy of 95.64% on test data.
+
+<p align="center"> <img src="images/cnndnn.JPG" width="700"> </p>
+
+[Project 4 : Google Playstore Apps Rating Prediction](https://github.com/hrisav/playstore-app-rating-prediction)
 --
 
 * Created an app that will predict the ratings of new android apps.
@@ -46,7 +56,7 @@
 
 <p align="center"> <img src="images/playstore.jpg" width="700"> </p>
 
-[Project 4 : Loan Approval](https://github.com/hrisav/loan-acceptance)
+[Project 5 : Loan Approval](https://github.com/hrisav/loan-acceptance)
 --
 
 * Created an app that will predict if a customer is eligible for loan or not.
@@ -62,7 +72,7 @@
 
 <p align="center"> <img src="images/loan.JPG" width="700"> </p>
 
-[Project 5 : Spam Classifier](https://github.com/hrisav/spam-ham)
+[Project 6 : Spam Classifier](https://github.com/hrisav/spam-ham)
 --
 
 * Built a binary classification model to detect whether a text message is spam or ham.
@@ -81,7 +91,7 @@ DL structure:
 
 <p align="center"> <img src="images/dlsteps2.jpg" width="550"> </p>
 
-[Project 6 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
+[Project 7 : Customer Segmentation for RFM analysis](https://github.com/hrisav/Customer-Segmentation)
 --
 
 * Understanding a retail store's customer purchase data having 51,243 transactions.
@@ -92,7 +102,7 @@ DL structure:
 
 <p align="center"> <img src="images/customer.jpg" width="600"> </p>
 
-[Project 7 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
+[Project 8 : Marketing Mix Modeling](https://github.com/hrisav/FMCG-regression)
 --
 
 - Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
@@ -105,7 +115,7 @@ DL structure:
 
 <p align="center"> <img src="images/mmm.jpg" width="500"> </p>
 
-[Project 8 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
+[Project 9 : Loan Approval using Spark](https://github.com/hrisav/loan-eligibility-spark)
 --
 
 * To predict if a customer is eligible for loan or not.
@@ -120,7 +130,7 @@ DL structure:
 
 <p align="center"> <img src="images/loanspark.JPG" width="400"> </p>
 
-[Project 9 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
+[Project 10 : Super Store Sales Dashboard](https://github.com/hrisav/tableau-works/tree/main/super-store-sales)
 --
 
 * Making a store sales dashboard using Tableau.
