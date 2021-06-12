@@ -32,10 +32,10 @@
 [Project 3 : Traffic Sign Classification](https://github.com/hrisav/traffic-sign-classify)
 --
 
-* Created a model that will classify trafic sign images using Deep Learning and Machine Learning techniques.
+* Created a model that will classify traffic sign images using Deep Learning and Machine Learning techniques.
 * Problem has 43 traffic signs (classes) and 50000+ images in total.
-* First a Convolutional Neural Network (Convolution >> Batch Normalization >> MaxPool >> Dropout) with Fully connected layer (having 2 dense layers) was built which gave an accuracy of 97.11% on test data.
-* The same Convolutional Neural Network's output was used to passed onto Random Forest and another model was built. It gave an accuracy of 95.64% on test data.
+* First a Convolutional Neural Network (Convolution >> Batch Normalization >> MaxPool >> Dropout) with fully connected layer (having 2 dense layers) was built which gave an accuracy of 97.11% on test data.
+* The same Convolutional Neural Network's output was used to pass onto Random Forest and another model was built. It gave an accuracy of 95.64% on test data.
 
 <p align="center"> <img src="images/cnndnn.JPG" width="700"> </p>
 
@@ -46,7 +46,7 @@
 * It will help the android developers to understand the factors behind the rating of any app.
 * Data cleaning was done in the first step, followed by extensive EDA.
 * Tried to understand univariate and bivariate analysis of the features.
-* Analysis was done to understand how each of the category of the app is performing.
+* Analysis was done to understand how each of the categories of the app is performing.
 * Performed various hypothesis tests.
 * Applied OLS and tried to check autocorrelation and heteroscedasticity.
 * Applied Random Forest Regressor, Linear Regression, Support Vector Regressor to select the final model.
@@ -74,7 +74,7 @@
 --
 
 * Built a binary classification model to detect whether a text message is spam or ham.
-* Used NLP techniques likes Lemmatization, Bag of Words, TFIDF as a baseline for ML model building.
+* Used NLP techniques like Lemmatization, Bag of Words, TFIDF as a baseline for ML model building.
 * Machine Learning models were built using Naive Bayes, KNeighborsClassifier, DecisionTreeClassifier, SVM Classifier.
 * For Deep Learning, techniques like Tokenizing, Word Indexing, Sequencing, Padding were followed.
 * It was then passed through either the Dense network or LSTM network.
@@ -94,9 +94,9 @@
 
 * Understanding a retail store's customer purchase data having 51,243 transactions.
 * Generating Recency, Frequency, Amount features for RFM analysis.
-* Built a 4-segment solution (using K-Means).
+* Built a 4-segment solution (using K-Means clustering).
 * Building segments from the managerial implementation angle.
-* Suggesting marketing and promotional activities based on segements.
+* Suggesting marketing and promotional activities based on segments.
 
 <p align="center"> <img src="images/customer.jpg" width="600"> </p>
 
@@ -105,7 +105,7 @@
 
 * Understanding dataset having: Price of Brand X, Feature (value-added variant is present or not), Display (if any promo is present) and its competitor's prices.
 * Perform OLS Regression using all features.
-* Check significance of features (by P-value) and drop insignifant ones and do OLS again.
+* Check significance of features (by P-value) and drop insignificant ones and do OLS again.
 * Try feature engineering and check interaction effect between variables and make new features.
 * Check adjusted R score and mean absolute error.
 * Perform model building using DecisionTreeRegressor, RandomForestRegressor, KNeighborsRegressor.
@@ -119,10 +119,9 @@
 
 * To predict if a customer is eligible for loan or not.
 * Understanding the problem and setting up Spark environment.
-* Data cleaning was done to fill missing values with mean/median.
-* Exploratory Analysis was performed to understand how other features are related to the target.
+* Data cleaning was done and EDA was performed to understand how other features are related to the target.
 * Feature engineering was done and new feature Total Income and EMI was formulated.
-* String Indexing and One Hot Encoding was performed on Categorical features.
+* String Indexing and One Hot Encoding were performed on Categorical features.
 * Using Vector Assembler multiple columns were merged into a vector column.
 * Applied Decision Tree Classifier, Random Forest Classifier, Logistic Regression to select the final model.
 * Model which gave best performance with high Recall and F1-Score was opted.
